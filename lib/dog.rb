@@ -6,8 +6,11 @@ class Dog
    end 
    
    
-   def dog_name, dog_breed = "Mutt"
+   def dog_name, 
   @name
+end 
+
+def dog_breed = "Mutt"
 	 @breed  
 	 end 
 		end 
